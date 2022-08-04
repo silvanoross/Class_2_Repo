@@ -35,7 +35,7 @@ python cli.py --pants=true
 
 Upon launching the clothes picker you will be greeted with the following prompts.
 
-![Clothes PIcker CLI](Template/Images/cli.png)
+![Clothes PIcker CLI](Images/cli.png)
 
 ---
 
